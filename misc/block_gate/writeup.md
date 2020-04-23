@@ -10,10 +10,10 @@
 >
 >p.s. Look left immeditaly after spawning-in and see what the water does :-)
 
-###Challenge
+### Challenge
 Upon loading the Minecraft, we see water is about to destroy the redstone circuit which is is apparently very important to our solution. In fact, it's the main portion to our solution and we won't get anywhere if it's destroyed. I first tried saving it with the `/fill` command by putting a room of acacia_planks but that didn't clear the water that was already under the roof. So after trying to learn how to use the replace subcommand of the `/fill` command I finally was able to save the circut by spamming, `/fill 54 58 -16 20 75 30 minecraft:air replace minecraft:water` until after the water had disappeared entirely from my screen.
 
-###Final soultion wrapup
+### Final soultion wrapup
 Now all we had to do was watch a oretty light show and decode the out of the image bellow:
 ![Solution](./images/Solution.png)
 
